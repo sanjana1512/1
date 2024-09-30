@@ -1,2 +1,5 @@
 nano is for writing in a file ,it will also create the file 
 touch is for creating the file
+local is git bash and remote meanns in github account 
+git pull is for remote to local
+git push is for local to remote
